@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background: #f5f7fb;
+    color: #111827;
+}
+
+h1,
+h2,
+p,
+label,
+input,
+textarea,
+button,
+div {
+    color: #111827;
+}
+
+input,
+textarea {
+    display: block;
+    margin-bottom: 10px;
+    width: 300px;
+    border: 1px solid #cbd5e1;
+    background: #ffffff;
+}
+
+input {
+    border: 1px solid #cbd5e1;
+    background: #ffffff;
+}
+
+button {
+    padding: 5px 10px;
+    border: 1px solid #2563eb;
+    background: #2563eb;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.note {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #ffffff;
+}
